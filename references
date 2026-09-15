@@ -1,4 +1,4 @@
-1. Course materials and lecture notes on computer network foundations.
-2. Course materials covering the network edge, network core, protocols, and network performance.
-3. Practical terminal demonstration using the macOS ping command.
-4. Google hostname connectivity test completed using ping -c 4 google.com.
+ Course materials and lecture notes on computer network foundations.
+ Course materials covering the network edge, network core, protocols, and network performance.
+ Practical terminal demonstration using the macOS ping command.
+ Google hostname connectivity test completed using ping -c 4 google.com.
