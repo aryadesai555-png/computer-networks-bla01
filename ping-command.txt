@@ -1,0 +1,13 @@
+Command used on macOS:
+
+ping -c 4 google.com
+
+Output summary:
+
+4 packets transmitted
+4 packets received
+0.0% packet loss
+Minimum round-trip time: 7.630 ms
+Average round-trip time: 32.840 ms
+Maximum round-trip time: 74.686 ms
+Standard deviation: 25.863 ms
