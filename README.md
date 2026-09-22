@@ -53,6 +53,18 @@ What I Learned:
 
 This project helped me understand how devices communicate over networks, how routers forward packets, and how protocols organize communication. The ping test also helped me understand packet loss and response time in a practical way.
 
+Key Takeaways
+
+1. I learned how hosts, routers, and access networks work together to move data.
+2. I learned how HTTP/HTTPS, TCP, IP, and DNS work together when accessing a website.
+3. I learned the difference between bandwidth, throughput, and delay.
+4. I learned how ping can be used to observe round-trip delay and packet loss.
+5. I learned how authentication, encryption, and other security measures help protect networks.
+
+YouTube Video
+
+[Watch my Computer Networks BLA 01 presentation](https://youtu.be/VtXkYOBrnNE?si=sFERnXneLglSnkIA)
+
 Tools Used:
 
 - macOS Terminal
